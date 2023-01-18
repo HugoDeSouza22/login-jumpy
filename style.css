@@ -1,10 +1,7 @@
 body{
     background-color: #1E1E1E;
     color: #FFFFFFE5;
-    font-family: Raleway;
-    margin: 40px;
-    Weight :600
-    
+    font-family: Raleway;    
 }
 div{
     margin: 15px;
@@ -15,17 +12,17 @@ input{
     border-radius:10px ;
     color:#616161;
     font-size: 14px;
-    margin:  10px 0 0 0;
     width: 100%;
 }
 #button{
     background-color: #0C70F2;
     color: #FFFFFF;
-    margin-left: 15px;
-}
+    margin-left: 15px;}
+
 section{
-    width: 530px;
-    margin: 0 auto 0 auto;
+    width:550px;
+    margin: 0 auto ;
+    
 }
 header{
     text-align: center;
